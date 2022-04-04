@@ -1,0 +1,11 @@
+server:
+  port: 888
+
+spring:
+  application:
+    name: demo
+
+algorand.custom:
+  host: 127.0.0.1
+  port: 4001
+  token: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
